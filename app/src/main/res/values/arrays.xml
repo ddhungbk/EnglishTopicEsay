@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="background_names">
+        <item>White (Default)</item>
+        <item>Light Yellow</item>
+        <item>Light Blue</item>
+        <item>Light Orange</item>
+        <item>Light Violet</item>
+        <item>Light Salmon</item>
+        <item>Light Pink</item>
+        <item>Light Green</item>
+        <item>Sky Blue</item>
+        <item>Light Brown</item>
+    </string-array>
+    <string-array name="background_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="nav_titles">
+        <item>PRACTICES</item>
+        <item>All Topics</item>
+        <item>Completed</item>
+        <item>Incomplete</item>
+        <item>Unchecked</item>
+        <item>Randomize</item>
+        <item>OPTIONS</item>
+        <item>Settings</item>
+        <item>Help...</item>
+        <item>More Apps...</item>
+    </string-array>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+    <string-array name="search_options">
+        <item>Only Title</item>
+        <item>Anything</item>
+    </string-array>
+    <string-array name="search_types">
+        <item>only-title</item>
+        <item>anything</item>
+    </string-array>
+    <string-array name="sort_clauses">
+        <item>_order ASC</item>
+        <item>_order DESC</item>
+        <item>checked DESC</item>
+        <item>checked ASC</item>
+        <item>title ASC</item>
+        <item>title DESC</item>
+    </string-array>
+    <string-array name="sort_names">
+        <item>By Order, Ascending</item>
+        <item>By Order, Descending</item>
+        <item>Checked</item>
+        <item>Not Checked</item>
+        <item>By Title, Ascending</item>
+        <item>By Title, Descending</item>
+    </string-array>
+    <string-array name="textsize_names">
+        <item>12 sp</item>
+        <item>13 sp</item>
+        <item>14 sp</item>
+        <item>15 sp</item>
+        <item>16 sp</item>
+        <item>17 sp</item>
+        <item>18 sp (Default)</item>
+        <item>19 sp</item>
+        <item>20 sp</item>
+        <item>21 sp</item>
+        <item>22 sp</item>
+        <item>23 sp</item>
+        <item>24 sp</item>
+        <item>25 sp</item>
+        <item>26 sp</item>
+        <item>27 sp</item>
+        <item>28 sp</item>
+        <item>29 sp</item>
+        <item>30 sp</item>
+    </string-array>
+    <string-array name="textsize_values">
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="theme_names">
+        <item>White (Default)</item>
+        <item>Theme 1</item>
+        <item>Theme 2</item>
+        <item>Theme 3</item>
+        <item>Theme 4</item>
+        <item>Theme 5</item>
+    </string-array>
+    <string-array name="theme_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>

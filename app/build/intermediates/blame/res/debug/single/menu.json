@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\0Workspace\\AndroidStudio\\EnglishTopics&Essays\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fragment_essay.xml",
+        "source": "D:\\0Workspace\\AndroidStudio\\EnglishTopics&Essays\\app\\src\\main\\res\\menu\\fragment_essay.xml"
+    },
+    {
+        "merged": "D:\\0Workspace\\AndroidStudio\\EnglishTopics&Essays\\app\\build\\intermediates\\res\\merged\\debug\\menu\\essay_detail.xml",
+        "source": "D:\\0Workspace\\AndroidStudio\\EnglishTopics&Essays\\app\\src\\main\\res\\menu\\essay_detail.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\EnglishTopics&Essays\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fragment_essay.xml",
+        "source": "D:\\Workspace\\EnglishTopics&Essays\\app\\src\\main\\res\\menu\\fragment_essay.xml"
+    },
+    {
+        "merged": "D:\\0Workspace\\AndroidStudio\\EnglishTopics&Essays\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fragment_vocab.xml",
+        "source": "D:\\0Workspace\\AndroidStudio\\EnglishTopics&Essays\\app\\src\\main\\res\\menu\\fragment_vocab.xml"
+    },
+    {
+        "merged": "D:\\0Workspace\\AndroidStudio\\EnglishTopics&Essays\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fragment_topic.xml",
+        "source": "D:\\0Workspace\\AndroidStudio\\EnglishTopics&Essays\\app\\src\\main\\res\\menu\\fragment_topic.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\EnglishTopics&Essays\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fragment_vocab.xml",
+        "source": "D:\\Workspace\\EnglishTopics&Essays\\app\\src\\main\\res\\menu\\fragment_vocab.xml"
+    },
+    {
+        "merged": "D:\\0Workspace\\AndroidStudio\\EnglishTopics&Essays\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\0Workspace\\AndroidStudio\\EnglishTopics&Essays\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\EnglishTopics&Essays\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Workspace\\EnglishTopics&Essays\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\EnglishTopics&Essays\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fragment_topic.xml",
+        "source": "D:\\Workspace\\EnglishTopics&Essays\\app\\src\\main\\res\\menu\\fragment_topic.xml"
+    },
+    {
+        "merged": "D:\\0Workspace\\AndroidStudio\\EnglishTopics&Essays\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "D:\\0Workspace\\AndroidStudio\\EnglishTopics&Essays\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\EnglishTopics&Essays\\app\\build\\intermediates\\res\\merged\\debug\\menu\\essay_detail.xml",
+        "source": "D:\\Workspace\\EnglishTopics&Essays\\app\\src\\main\\res\\menu\\essay_detail.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\EnglishTopics&Essays\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "D:\\Workspace\\EnglishTopics&Essays\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]
